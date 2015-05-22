@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>	<field name="uuid">http://hdl.handle.net/2451/33876</field>
+	<field name="dc_identifier_s">http://hdl.handle.net/2451/33876</field>
+	<field name="dc_title_s">	National Jewish Population Map by County	</field>
+	<field name="dc_description_s">This file is an estimate of the number of Jewish persons in the U.S. by county in 2010 census geographies, based upon multiple sources of data, including Jewish community studies available at the Jewish Data Bank, the Data Bank's Current Jewish Population Report series, and the American Community Survey. Joshua Comenetz used indicators like language spoken and ancestry in the absence of standard demographic data to measure Jewish populations. For more information on the methodology used to compile this data set, see the Jewish Data Bank.</field>
+	<field name="dc_rights_s">Public</field>
+	<field name="dct_provenance_s">NYU</field>
+	<field name="dct_references_s">{"http://schema.org/url":"http://hdl.handle.net/2451/33876","http://www.opengis.net/def/serviceType/ogc/wfs":"http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wfs","http://www.opengis.net/def/serviceType/ogc/wms":"http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wms"}</field>
+	<field name="layer_geom_type_s">Polygon</field>
+	<field name="layer_modified_dt">2015-03-09T19:47:25Z</field>
+	<field name="dc_format_s">Shapefile</field>
+	<field name="dc_language_s">eng</field>
+	<field name="dc_type_s">Dataset</field>
+	<field name="dc_publisher_s">The Jewish Federations of North America</field>
+	<field name="dc_creator_sm">Joshua Comenetz</field>
+	<field name="dc_subject_sm">Judaism</field>
+	<field name="dc_subject_sm">Demographic surveys--United States</field>
+	<field name="dc_subject_sm">Census</field>
+	<field name="dc_subject_sm">Population</field>
+	<field name="dc_subject_sm">Religion</field>
+	<field name="dct_issued_s">10/07/2012</field>
+	<field name="dct_temporal_sm">2012</field>
+	<field name="dct_spatial_sm">United States</field>
+	<field name="dct_relation_sm">http://sws.geonames.org/6252001/about/rdf</field>
+	<field name="georss_box_s">24.8434013255 -171.4073700905 71.4954563203 -68.0821685791</field>
+	<field name="georss_polygon_s">52.2 -129.7 52.2 -61.3 23.3 -61.3 23.3 -129.7 52.2 -129.7</field>
+    <field name="layer_slug_s">nyu_ws:nationalmapdata</field>
+    <field name="layer_id_s">nyu_ws:nationalmapdata</field>
+	<field name="solr_geom">ENVELOPE(-125.81, -71.908, 60.973, 0.546)</field>
+</doc></add>

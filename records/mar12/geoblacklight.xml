@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>	<field name="uuid">http://hdl.handle.net/2451/33877</field>
+	<field name="dc_identifier_s">http://hdl.handle.net/2451/33877</field>
+	<field name="dc_title_s">U.S. Parks</field>
+	<field name="dc_description_s">U.S. Parks represents the state, county, federal, and municipal parks in the United States.</field>
+	<field name="dc_rights_s">Public</field>
+	<field name="dct_provenance_s">NYU</field>
+	<field name="layer_geom_type_s">Polygon</field>
+	<field name="layer_modified_dt">2015-03-10T13:38:54Z</field>
+	<field name="dc_format_s">Shapefile</field>
+	<field name="dc_language_s">eng</field>
+	<field name="dc_publisher_s">ESRI</field>
+	<field name="dc_subject_sm">Parks</field>
+	<field name="dc_subject_sm">Recreation</field>
+	<field name="dct_references_s">{"http://www.opengis.net/def/serviceType/ogc/wfs": "http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wfs", "http://schema.org/url": "http://library.nyu.edu/dataservices", "http://www.opengis.net/def/serviceType/ogc/wms": "http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wms"}</field>
+	<field name="dct_temporal_sm">2009</field>
+	<field name="dct_spatial_sm">United States</field>
+	<field name="dct_relation_sm">http://sws.geonames.org/6252001/about/rdf</field>
+	<field name="georss_box_s">24.8434013255 -171.4073700905 71.4954563203 -68.0821685791</field>
+	<field name="layer_slug_s">nyu_ws:park_dtl_lwe</field>
+    <field name="layer_id_s">nyu_ws:park_dtl_lwe</field>
+	<field name="solr_geom">ENVELOPE(-125.81, -71.908, 60.973, 0.546)</field>
+</doc></add>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>	<field name="uuid">http://archive.nyu.edu/handle/2451/33888</field>
+	<field name="dc_identifier_s">http://archive.nyu.edu/handle/2451/33888</field>
+	<field name="dc_title_s">Grade &quot;A&quot; Restaurants in Manhattan</field>
+	<field name="dc_description_s">This point shapefile displays restaurants in Manhattan that received a grade of &quot;A&quot; from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file.</field>
+	<field name="dc_rights_s">Public</field>
+	<field name="dct_provenance_s">NYU</field>
+	<field name="layer_geom_type_s">Point</field>
+	<field name="layer_modified_dt">2015-03-18T14:47:36Z</field>
+	<field name="dc_format_s">Shapefile</field>
+	<field name="dc_language_s">eng</field>
+	<field name="layer_id_s">nyu_ws:manhattan_a_restaurants</field>
+    <field name="layer_slug_s">nyu_ws:manhattan_a_restaurants</field>
+	<field name="dct_references_s">{"http://www.opengis.net/def/serviceType/ogc/wfs": "http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wfs", "http://schema.org/url": "http://library.nyu.edu/dataservices", "http://www.opengis.net/def/serviceType/ogc/wms": "http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wms"}</field>
+	<field name="dc_type_s">Dataset</field>
+	<field name="dc_creator_sm">Michelle Thompson</field>
+	<field name="dc_subject_sm">Restaurants</field>
+	<field name="dc_subject_sm">Inspection</field>
+	<field name="dc_subject_sm">Health and hygiene</field>
+	<field name="dc_subject_sm">Urban health</field>
+	<field name="dct_temporal_sm">2013-2015</field>
+	<field name="dct_spatial_sm">Manhattan</field>
+	<field name="dct_spatial_sm">New York County</field>
+	<field name="dct_relation_sm">http://sws.geonames.org/5125771/about/rdf</field>
+	<field name="dct_relation_sm">http://sws.geonames.org/5128594/about/rdf</field>
+	<field name="georss_box_s">40.882214 -74.047285 -73.907 40.6795479</field>
+    <field name="solr_geom">ENVELOPE(-74.297845, -73.66185, 40.918907, 40.46933)</field>
+</doc></add>
